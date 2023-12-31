@@ -2,7 +2,7 @@
 With this project you can send sensor data from ESP12f board to client device like smartphone, laptop or PC. 
 I am using websocket protocol in this project because it updates all clients simultaneously if a change is made.
 
-Software required: Arduino IDE
+Software required: Arduino IDE<br><br>
 Libraries required:<br>1. ESP8266WiFi.h<br>2. ESPAsyncTCP.h<br>3. ESPAsyncWebServer.h<br>4. Arduino_JSON.h
 
 Circuit Diagram -
