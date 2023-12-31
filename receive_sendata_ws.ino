@@ -9,8 +9,8 @@
 
 ESP8266WiFiMulti wifiMulti;
 
-const char* ssid = "whiteferrari";
-const char* password = "oceanwaves";
+const char* ssid = "Your wifi ssid";
+const char* password = "Your wifi password";
 
 AsyncWebServer server(80);
 // Create a WebSocket object
