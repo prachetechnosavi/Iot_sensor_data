@@ -9,7 +9,6 @@ Circuit Diagram -
 ![Schematic_IoT_sensor_esp12f_2023-12-31 (1)](https://github.com/prachetechnosavi/Iot_sensor_data/assets/64555378/dbb566fe-f657-4451-81b2-9fdf27dfaf17)
 
 Connect the sensors to ESP12F board as per the schematic diagram given above. 
-There are two sensors :- 1. HCSR04 to measure distance (Digital output)<br>
-                         2. LDR to meaure light intensity (Analog output) 
+There are two sensors:<br> 1. HCSR04 to measure distance (Digital output)<br> 2. LDR to meaure light intensity (Analog output) 
                      
 
