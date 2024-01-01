@@ -2,7 +2,6 @@
 #include <ESP8266WiFiMulti.h>
 #include <ESPAsyncTCP.h>
 #include <ESPAsyncWebServer.h>
-#include <Adafruit_Sensor.h>
 #include <Arduino_JSON.h>
 #include "webpage.h"
 
